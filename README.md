@@ -1,6 +1,9 @@
 **Budget Madness**
+
 This Read Me file contains the manual and explanation for how our application works.
+
 **LINKS FOR USE:**
+
 **GITHUB:**
 
 **YOUTUBE:**
